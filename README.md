@@ -1,1 +1,1 @@
-# CS 124 Programming Assignments
+# CS 124 (Spring 2020)
